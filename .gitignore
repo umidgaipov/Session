@@ -1,0 +1,21 @@
+# Temporary browser data & testing profiles
+.tmp_reviewer_chrome_user_data/
+.tmp*/
+screenshot_*.png
+25
+
+# Internal agent scratchpads
+.agents/teamwork/
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+
+# Environment & Dependencies
+.env
+node_modules/
+__pycache__/
+.pytest_cache/

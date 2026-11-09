@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#242422"/>
+      <stop offset="100%" stop-color="#1A1A18"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="115" fill="url(#bg-grad)"/>
+  <rect width="510" height="510" x="1" y="1" rx="114" fill="none" stroke="#383835" stroke-width="2"/>
+  <text x="256" y="328" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'SF Pro Display', 'Segoe UI', sans-serif" font-size="230" font-weight="700" letter-spacing="-8" fill="#FAFAF8" text-anchor="middle">ES</text>
+  <rect x="180" y="375" width="152" height="8" rx="4" fill="#6E6E6A"/>
+</svg>

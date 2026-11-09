@@ -1,0 +1,358 @@
+{
+  "datasetResults": {
+    "totalQuestionsVerified": 152,
+    "correctMatches": 152,
+    "distractorCountMatches": 152,
+    "anomalies": []
+  },
+  "browserResults": {
+    "rapidClickResult": {
+      "answer": {
+        "category": "situational",
+        "questionId": 1,
+        "selectedOption": "B",
+        "isCorrect": true,
+        "answeredAt": 1794187871565
+      },
+      "btnBIsCorrect": true,
+      "btnAIsIncorrect": false,
+      "btnAIsDimmed": true,
+      "btnCIsDimmed": true,
+      "allDisabled": true,
+      "progressText": "1 / 95"
+    },
+    "rapidAnswerResult": {
+      "answersRecorded": [
+        {
+          "q": 2,
+          "optLetter": "A"
+        },
+        {
+          "q": 3,
+          "optLetter": "B"
+        },
+        {
+          "q": 4,
+          "optLetter": "A"
+        },
+        {
+          "q": 5,
+          "optLetter": "B"
+        },
+        {
+          "q": 6,
+          "optLetter": "A"
+        },
+        {
+          "q": 7,
+          "optLetter": "B"
+        },
+        {
+          "q": 8,
+          "optLetter": "A"
+        },
+        {
+          "q": 9,
+          "optLetter": "B"
+        },
+        {
+          "q": 10,
+          "optLetter": "A"
+        }
+      ],
+      "progressText": "10 / 95",
+      "badge": "Вопрос 10 из 95"
+    },
+    "afterReload": {
+      "progressText": "10 / 95",
+      "badge": "Вопрос 10 из 95",
+      "cardVisible": true,
+      "allDisabled": true
+    },
+    "corruptionRecovery": {
+      "progressText": "0 / 95",
+      "badge": "Вопрос 1 из 95",
+      "optionsCount": 4,
+      "optionsDisabled": false,
+      "progressAfterClick": "1 / 95"
+    },
+    "catalogAudit": {
+      "chips": [
+        {
+          "filter": "all",
+          "text": "Все (95)",
+          "hasCounterSpan": true,
+          "counterText": "95"
+        },
+        {
+          "filter": "unsolved",
+          "text": "Нерешенные (90)",
+          "hasCounterSpan": true,
+          "counterText": "90"
+        },
+        {
+          "filter": "incorrect",
+          "text": "С ошибками (2)",
+          "hasCounterSpan": true,
+          "counterText": "2"
+        },
+        {
+          "filter": "correct",
+          "text": "Решенные (3)",
+          "hasCounterSpan": true,
+          "counterText": "3"
+        }
+      ],
+      "allCells": 95,
+      "unsolvedCells": 90,
+      "incorrectCells": 2,
+      "correctCells": 3
+    },
+    "counterEvaluation": {
+      "chipAllHasCounter": true,
+      "chipUnsolvedHasCounter": true,
+      "chipIncorrectHasCounter": true,
+      "chipCorrectHasCounter": true
+    },
+    "filterLiveCountersResult": {
+      "log": [
+        {
+          "step": "initial_situational",
+          "counters": {
+            "exists": true,
+            "all": 95,
+            "unsolved": 90,
+            "incorrect": 2,
+            "correct": 3
+          }
+        },
+        {
+          "step": "after_q95",
+          "counters": {
+            "exists": true,
+            "all": 95,
+            "unsolved": 89,
+            "incorrect": 3,
+            "correct": 3
+          }
+        },
+        {
+          "step": "rapid_10_answers",
+          "rapidSteps": [
+            {
+              "stepIdx": 0,
+              "counters": {
+                "exists": true,
+                "all": 95,
+                "unsolved": 88,
+                "incorrect": 4,
+                "correct": 3
+              },
+              "invariantHolds": true
+            },
+            {
+              "stepIdx": 1,
+              "counters": {
+                "exists": true,
+                "all": 95,
+                "unsolved": 87,
+                "incorrect": 5,
+                "correct": 3
+              },
+              "invariantHolds": true
+            },
+            {
+              "stepIdx": 2,
+              "counters": {
+                "exists": true,
+                "all": 95,
+                "unsolved": 86,
+                "incorrect": 5,
+                "correct": 4
+              },
+              "invariantHolds": true
+            },
+            {
+              "stepIdx": 3,
+              "counters": {
+                "exists": true,
+                "all": 95,
+                "unsolved": 85,
+                "incorrect": 6,
+                "correct": 4
+              },
+              "invariantHolds": true
+            },
+            {
+              "stepIdx": 4,
+              "counters": {
+                "exists": true,
+                "all": 95,
+                "unsolved": 84,
+                "incorrect": 7,
+                "correct": 4
+              },
+              "invariantHolds": true
+            },
+            {
+              "stepIdx": 5,
+              "counters": {
+                "exists": true,
+                "all": 95,
+                "unsolved": 83,
+                "incorrect": 8,
+                "correct": 4
+              },
+              "invariantHolds": true
+            },
+            {
+              "stepIdx": 6,
+              "counters": {
+                "exists": true,
+                "all": 95,
+                "unsolved": 82,
+                "incorrect": 9,
+                "correct": 4
+              },
+              "invariantHolds": true
+            },
+            {
+              "stepIdx": 7,
+              "counters": {
+                "exists": true,
+                "all": 95,
+                "unsolved": 81,
+                "incorrect": 10,
+                "correct": 4
+              },
+              "invariantHolds": true
+            },
+            {
+              "stepIdx": 8,
+              "counters": {
+                "exists": true,
+                "all": 95,
+                "unsolved": 80,
+                "incorrect": 11,
+                "correct": 4
+              },
+              "invariantHolds": true
+            },
+            {
+              "stepIdx": 9,
+              "counters": {
+                "exists": true,
+                "all": 95,
+                "unsolved": 79,
+                "incorrect": 12,
+                "correct": 4
+              },
+              "invariantHolds": true
+            }
+          ]
+        },
+        {
+          "step": "switch_to_practical",
+          "counters": {
+            "exists": true,
+            "all": 57,
+            "unsolved": 52,
+            "incorrect": 2,
+            "correct": 3
+          },
+          "invariantHolds": true
+        },
+        {
+          "step": "prac_rapid_5_answers",
+          "pracRapidSteps": [
+            {
+              "stepIdx": 0,
+              "counters": {
+                "exists": true,
+                "all": 57,
+                "unsolved": 51,
+                "incorrect": 3,
+                "correct": 3
+              },
+              "invariantHolds": true
+            },
+            {
+              "stepIdx": 1,
+              "counters": {
+                "exists": true,
+                "all": 57,
+                "unsolved": 50,
+                "incorrect": 4,
+                "correct": 3
+              },
+              "invariantHolds": true
+            },
+            {
+              "stepIdx": 2,
+              "counters": {
+                "exists": true,
+                "all": 57,
+                "unsolved": 49,
+                "incorrect": 5,
+                "correct": 3
+              },
+              "invariantHolds": true
+            },
+            {
+              "stepIdx": 3,
+              "counters": {
+                "exists": true,
+                "all": 57,
+                "unsolved": 48,
+                "incorrect": 6,
+                "correct": 3
+              },
+              "invariantHolds": true
+            },
+            {
+              "stepIdx": 4,
+              "counters": {
+                "exists": true,
+                "all": 57,
+                "unsolved": 47,
+                "incorrect": 6,
+                "correct": 4
+              },
+              "invariantHolds": true
+            }
+          ]
+        },
+        {
+          "step": "back_to_situational",
+          "counters": {
+            "exists": true,
+            "all": 95,
+            "unsolved": 79,
+            "incorrect": 12,
+            "correct": 4
+          },
+          "invariantHolds": true
+        },
+        {
+          "step": "post_reset",
+          "counters": {
+            "exists": true,
+            "all": 95,
+            "unsolved": 95,
+            "incorrect": 0,
+            "correct": 0
+          },
+          "invariantHolds": true
+        }
+      ],
+      "appStateValid": true,
+      "drawerGridAfterReset": {
+        "all": 95,
+        "unsolved": 95,
+        "incorrect": 0,
+        "correct": 0
+      }
+    },
+    "runtimeExceptions": []
+  }
+}

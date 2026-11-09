@@ -1,0 +1,243 @@
+{
+  "verdict": "APPROVE",
+  "total": 47,
+  "passed": 47,
+  "failed": 0,
+  "details": [
+    {
+      "name": "sw.js includes manifest asset: ./",
+      "pass": true,
+      "info": ""
+    },
+    {
+      "name": "sw.js includes manifest asset: index.html",
+      "pass": true,
+      "info": ""
+    },
+    {
+      "name": "sw.js includes manifest asset: assets/css/styles.css",
+      "pass": true,
+      "info": ""
+    },
+    {
+      "name": "sw.js includes manifest asset: assets/js/app.js",
+      "pass": true,
+      "info": ""
+    },
+    {
+      "name": "sw.js includes manifest asset: situational_tests.json",
+      "pass": true,
+      "info": ""
+    },
+    {
+      "name": "sw.js includes manifest asset: practical_tests.json",
+      "pass": true,
+      "info": ""
+    },
+    {
+      "name": "Asset exists on disk and non-empty: index.html",
+      "pass": true,
+      "info": "15383 bytes"
+    },
+    {
+      "name": "Asset exists on disk and non-empty: assets/css/styles.css",
+      "pass": true,
+      "info": "25122 bytes"
+    },
+    {
+      "name": "Asset exists on disk and non-empty: assets/js/app.js",
+      "pass": true,
+      "info": "32086 bytes"
+    },
+    {
+      "name": "Asset exists on disk and non-empty: situational_tests.json",
+      "pass": true,
+      "info": "599577 bytes"
+    },
+    {
+      "name": "Asset exists on disk and non-empty: practical_tests.json",
+      "pass": true,
+      "info": "393192 bytes"
+    },
+    {
+      "name": "situational_tests.json count matches 95 items",
+      "pass": true,
+      "info": "count=95"
+    },
+    {
+      "name": "practical_tests.json count matches 57 items",
+      "pass": true,
+      "info": "count=57"
+    },
+    {
+      "name": "sw.js calls skipWaiting()",
+      "pass": true,
+      "info": ""
+    },
+    {
+      "name": "sw.js calls clients.claim()",
+      "pass": true,
+      "info": ""
+    },
+    {
+      "name": "sw.js implements cache-first fetch handler",
+      "pass": true,
+      "info": ""
+    },
+    {
+      "name": "sw.js has navigation offline fallback",
+      "pass": true,
+      "info": ""
+    },
+    {
+      "name": "Online initial page load succeeds",
+      "pass": true,
+      "info": "Session — Тестирование по экономической статистике"
+    },
+    {
+      "name": "Service Worker is registered and active",
+      "pass": true,
+      "info": "{\"supported\":true,\"registered\":true,\"scope\":\"http://127.0.0.1:8295/\",\"active\":true,\"installing\":false,\"waiting\":false}"
+    },
+    {
+      "name": "Cache 'session-stat-v2' (or 'session-stat-v1') exists in CacheStorage",
+      "pass": true,
+      "info": ""
+    },
+    {
+      "name": "Cache contains index.html or './'",
+      "pass": true,
+      "info": ""
+    },
+    {
+      "name": "Cache contains styles.css",
+      "pass": true,
+      "info": ""
+    },
+    {
+      "name": "Cache contains app.js",
+      "pass": true,
+      "info": ""
+    },
+    {
+      "name": "Cache contains situational_tests.json",
+      "pass": true,
+      "info": ""
+    },
+    {
+      "name": "Cache contains practical_tests.json",
+      "pass": true,
+      "info": ""
+    },
+    {
+      "name": "Cached situational_tests.json has full content",
+      "pass": true,
+      "info": "chars=364997"
+    },
+    {
+      "name": "Cached practical_tests.json has full content",
+      "pass": true,
+      "info": "chars=260048"
+    },
+    {
+      "name": "Browser reports navigator.onLine === false",
+      "pass": true,
+      "info": "onLine=false"
+    },
+    {
+      "name": "Uncached network requests fail 100% while offline",
+      "pass": true,
+      "info": ""
+    },
+    {
+      "name": "Page successfully reloads from SW cache while 100% offline",
+      "pass": true,
+      "info": "Session — Тестирование по экономической статистике"
+    },
+    {
+      "name": "App engine initialized offline with 95 situational + 57 practical datasets",
+      "pass": true,
+      "info": "sit=95, prac=57"
+    },
+    {
+      "name": "Question 1 rendered correctly offline (topic, prompt, 4 options)",
+      "pass": true,
+      "info": "Предмет статистики и её специф..."
+    },
+    {
+      "name": "Option B click evaluated and styled offline",
+      "pass": true,
+      "info": ""
+    },
+    {
+      "name": "Explanation card displayed offline after answering",
+      "pass": true,
+      "info": ""
+    },
+    {
+      "name": "Answer persisted to LocalStorage offline",
+      "pass": true,
+      "info": ""
+    },
+    {
+      "name": "Offline forward navigation to Question 2",
+      "pass": true,
+      "info": "Вопрос 2 из 95"
+    },
+    {
+      "name": "Question 2 answered and saved to LocalStorage offline",
+      "pass": true,
+      "info": ""
+    },
+    {
+      "name": "Switched to Practical category offline (57 questions)",
+      "pass": true,
+      "info": "Вопрос 1 из 57"
+    },
+    {
+      "name": "Practical Question 1 answered and saved to LocalStorage offline",
+      "pass": true,
+      "info": ""
+    },
+    {
+      "name": "Catalog drawer opens and displays 57 items offline",
+      "pass": true,
+      "info": ""
+    },
+    {
+      "name": "Direct jump to Question 10 from catalog offline",
+      "pass": true,
+      "info": "Вопрос 10 из 57"
+    },
+    {
+      "name": "Page restored active category (practical) after offline reload",
+      "pass": true,
+      "info": ""
+    },
+    {
+      "name": "Restored question index after offline reload",
+      "pass": true,
+      "info": "Вопрос 10 из 57"
+    },
+    {
+      "name": "All previously saved answers intact in LocalStorage after reload",
+      "pass": true,
+      "info": ""
+    },
+    {
+      "name": "Offline navigation to root '/' successfully served by SW",
+      "pass": true,
+      "info": "Session — Тестирование по экономической статистике"
+    },
+    {
+      "name": "Offline navigation with query params '/?subway=metro_mode' served by SW",
+      "pass": true,
+      "info": "Session — Тестирование по экономической статистике"
+    },
+    {
+      "name": "Zero uncaught exceptions during offline session",
+      "pass": true,
+      "info": ""
+    }
+  ]
+}

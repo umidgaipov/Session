@@ -1,0 +1,875 @@
+{
+  "touchTargets": [
+    {
+      "viewport": "320px",
+      "element": "Header Reset Button (.btn-pill-icon)",
+      "selector": "#btn-reset",
+      "width": 44,
+      "height": 44,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "320px",
+      "element": "Mode Tab Situational (.segment-btn)",
+      "selector": "#tab-situational",
+      "width": 144,
+      "height": 44,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "320px",
+      "element": "Mode Tab Practical (.segment-btn)",
+      "selector": "#tab-practical",
+      "width": 144,
+      "height": 44,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "320px",
+      "element": "Option A (.option-btn)",
+      "selector": "#option-A",
+      "width": 262,
+      "height": 225.8,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "320px",
+      "element": "Option B (.option-btn)",
+      "selector": "#option-B",
+      "width": 262,
+      "height": 269.3,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "320px",
+      "element": "Option C (.option-btn)",
+      "selector": "#option-C",
+      "width": 262,
+      "height": 204,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "320px",
+      "element": "Option D (.option-btn)",
+      "selector": "#option-D",
+      "width": 262,
+      "height": 247.5,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "320px",
+      "element": "Bottom Nav Prev (.btn-pill)",
+      "selector": "#btn-prev",
+      "width": 124,
+      "height": 48,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "320px",
+      "element": "Bottom Nav Catalog (.btn-pill-icon)",
+      "selector": "#btn-catalog",
+      "width": 44,
+      "height": 44,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "320px",
+      "element": "Bottom Nav Next (.btn-pill-primary)",
+      "selector": "#btn-next",
+      "width": 124,
+      "height": 48,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "320px",
+      "element": "Close Sheet Button (.btn-pill-icon)",
+      "selector": "#btn-close-sheet",
+      "width": 44,
+      "height": 44,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "320px",
+      "element": "Filter Chip All (.filter-chip)",
+      "selector": ".filter-chip[data-filter=\"all\"]",
+      "width": 88.3,
+      "height": 44,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "320px",
+      "element": "Filter Chip Unsolved (.filter-chip)",
+      "selector": ".filter-chip[data-filter=\"unsolved\"]",
+      "width": 149.1,
+      "height": 44,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "320px",
+      "element": "First Grid Cell (.grid-cell)",
+      "selector": ".grid-cell",
+      "width": 64,
+      "height": 48,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "360px",
+      "element": "Header Reset Button (.btn-pill-icon)",
+      "selector": "#btn-reset",
+      "width": 44,
+      "height": 44,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "360px",
+      "element": "Mode Tab Situational (.segment-btn)",
+      "selector": "#tab-situational",
+      "width": 162.5,
+      "height": 44,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "360px",
+      "element": "Mode Tab Practical (.segment-btn)",
+      "selector": "#tab-practical",
+      "width": 162.5,
+      "height": 44,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "360px",
+      "element": "Option A (.option-btn)",
+      "selector": "#option-A",
+      "width": 302,
+      "height": 182.3,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "360px",
+      "element": "Option B (.option-btn)",
+      "selector": "#option-B",
+      "width": 302,
+      "height": 247.5,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "360px",
+      "element": "Option C (.option-btn)",
+      "selector": "#option-C",
+      "width": 302,
+      "height": 160.5,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "360px",
+      "element": "Option D (.option-btn)",
+      "selector": "#option-D",
+      "width": 302,
+      "height": 182.3,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "360px",
+      "element": "Bottom Nav Prev (.btn-pill)",
+      "selector": "#btn-prev",
+      "width": 140,
+      "height": 48,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "360px",
+      "element": "Bottom Nav Catalog (.btn-pill-icon)",
+      "selector": "#btn-catalog",
+      "width": 44,
+      "height": 44,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "360px",
+      "element": "Bottom Nav Next (.btn-pill-primary)",
+      "selector": "#btn-next",
+      "width": 140,
+      "height": 48,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "360px",
+      "element": "Close Sheet Button (.btn-pill-icon)",
+      "selector": "#btn-close-sheet",
+      "width": 44,
+      "height": 44,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "360px",
+      "element": "Filter Chip All (.filter-chip)",
+      "selector": ".filter-chip[data-filter=\"all\"]",
+      "width": 88.3,
+      "height": 44,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "360px",
+      "element": "Filter Chip Unsolved (.filter-chip)",
+      "selector": ".filter-chip[data-filter=\"unsolved\"]",
+      "width": 149.1,
+      "height": 44,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "360px",
+      "element": "First Grid Cell (.grid-cell)",
+      "selector": ".grid-cell",
+      "width": 74,
+      "height": 48,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "375px",
+      "element": "Header Reset Button (.btn-pill-icon)",
+      "selector": "#btn-reset",
+      "width": 48,
+      "height": 48,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "375px",
+      "element": "Mode Tab Situational (.segment-btn)",
+      "selector": "#tab-situational",
+      "width": 166,
+      "height": 44,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "375px",
+      "element": "Mode Tab Practical (.segment-btn)",
+      "selector": "#tab-practical",
+      "width": 166,
+      "height": 44,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "375px",
+      "element": "Option A (.option-btn)",
+      "selector": "#option-A",
+      "width": 301,
+      "height": 182.3,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "375px",
+      "element": "Option B (.option-btn)",
+      "selector": "#option-B",
+      "width": 301,
+      "height": 247.5,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "375px",
+      "element": "Option C (.option-btn)",
+      "selector": "#option-C",
+      "width": 301,
+      "height": 160.5,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "375px",
+      "element": "Option D (.option-btn)",
+      "selector": "#option-D",
+      "width": 301,
+      "height": 182.3,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "375px",
+      "element": "Bottom Nav Prev (.btn-pill)",
+      "selector": "#btn-prev",
+      "width": 135.5,
+      "height": 48,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "375px",
+      "element": "Bottom Nav Catalog (.btn-pill-icon)",
+      "selector": "#btn-catalog",
+      "width": 48,
+      "height": 48,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "375px",
+      "element": "Bottom Nav Next (.btn-pill-primary)",
+      "selector": "#btn-next",
+      "width": 135.5,
+      "height": 48,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "375px",
+      "element": "Close Sheet Button (.btn-pill-icon)",
+      "selector": "#btn-close-sheet",
+      "width": 48,
+      "height": 48,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "375px",
+      "element": "Filter Chip All (.filter-chip)",
+      "selector": ".filter-chip[data-filter=\"all\"]",
+      "width": 88.3,
+      "height": 44,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "375px",
+      "element": "Filter Chip Unsolved (.filter-chip)",
+      "selector": ".filter-chip[data-filter=\"unsolved\"]",
+      "width": 149.1,
+      "height": 44,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "375px",
+      "element": "First Grid Cell (.grid-cell)",
+      "selector": ".grid-cell",
+      "width": 60.6,
+      "height": 48,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "390px",
+      "element": "Header Reset Button (.btn-pill-icon)",
+      "selector": "#btn-reset",
+      "width": 48,
+      "height": 48,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "390px",
+      "element": "Mode Tab Situational (.segment-btn)",
+      "selector": "#tab-situational",
+      "width": 173.5,
+      "height": 44,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "390px",
+      "element": "Mode Tab Practical (.segment-btn)",
+      "selector": "#tab-practical",
+      "width": 173.5,
+      "height": 44,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "390px",
+      "element": "Option A (.option-btn)",
+      "selector": "#option-A",
+      "width": 316,
+      "height": 160.5,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "390px",
+      "element": "Option B (.option-btn)",
+      "selector": "#option-B",
+      "width": 316,
+      "height": 225.8,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "390px",
+      "element": "Option C (.option-btn)",
+      "selector": "#option-C",
+      "width": 316,
+      "height": 160.5,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "390px",
+      "element": "Option D (.option-btn)",
+      "selector": "#option-D",
+      "width": 316,
+      "height": 182.3,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "390px",
+      "element": "Bottom Nav Prev (.btn-pill)",
+      "selector": "#btn-prev",
+      "width": 143,
+      "height": 48,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "390px",
+      "element": "Bottom Nav Catalog (.btn-pill-icon)",
+      "selector": "#btn-catalog",
+      "width": 48,
+      "height": 48,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "390px",
+      "element": "Bottom Nav Next (.btn-pill-primary)",
+      "selector": "#btn-next",
+      "width": 143,
+      "height": 48,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "390px",
+      "element": "Close Sheet Button (.btn-pill-icon)",
+      "selector": "#btn-close-sheet",
+      "width": 48,
+      "height": 48,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "390px",
+      "element": "Filter Chip All (.filter-chip)",
+      "selector": ".filter-chip[data-filter=\"all\"]",
+      "width": 88.3,
+      "height": 44,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "390px",
+      "element": "Filter Chip Unsolved (.filter-chip)",
+      "selector": ".filter-chip[data-filter=\"unsolved\"]",
+      "width": 149.1,
+      "height": 44,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "390px",
+      "element": "First Grid Cell (.grid-cell)",
+      "selector": ".grid-cell",
+      "width": 63.6,
+      "height": 48,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "430px",
+      "element": "Header Reset Button (.btn-pill-icon)",
+      "selector": "#btn-reset",
+      "width": 48,
+      "height": 48,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "430px",
+      "element": "Mode Tab Situational (.segment-btn)",
+      "selector": "#tab-situational",
+      "width": 193.5,
+      "height": 44,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "430px",
+      "element": "Mode Tab Practical (.segment-btn)",
+      "selector": "#tab-practical",
+      "width": 193.5,
+      "height": 44,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "430px",
+      "element": "Option A (.option-btn)",
+      "selector": "#option-A",
+      "width": 356,
+      "height": 160.5,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "430px",
+      "element": "Option B (.option-btn)",
+      "selector": "#option-B",
+      "width": 356,
+      "height": 182.3,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "430px",
+      "element": "Option C (.option-btn)",
+      "selector": "#option-C",
+      "width": 356,
+      "height": 138.8,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "430px",
+      "element": "Option D (.option-btn)",
+      "selector": "#option-D",
+      "width": 356,
+      "height": 160.5,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "430px",
+      "element": "Bottom Nav Prev (.btn-pill)",
+      "selector": "#btn-prev",
+      "width": 163,
+      "height": 48,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "430px",
+      "element": "Bottom Nav Catalog (.btn-pill-icon)",
+      "selector": "#btn-catalog",
+      "width": 48,
+      "height": 48,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "430px",
+      "element": "Bottom Nav Next (.btn-pill-primary)",
+      "selector": "#btn-next",
+      "width": 163,
+      "height": 48,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "430px",
+      "element": "Close Sheet Button (.btn-pill-icon)",
+      "selector": "#btn-close-sheet",
+      "width": 48,
+      "height": 48,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "430px",
+      "element": "Filter Chip All (.filter-chip)",
+      "selector": ".filter-chip[data-filter=\"all\"]",
+      "width": 88.3,
+      "height": 44,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "430px",
+      "element": "Filter Chip Unsolved (.filter-chip)",
+      "selector": ".filter-chip[data-filter=\"unsolved\"]",
+      "width": 149.1,
+      "height": 44,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "430px",
+      "element": "First Grid Cell (.grid-cell)",
+      "selector": ".grid-cell",
+      "width": 71.6,
+      "height": 48,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "768px",
+      "element": "Header Reset Button (.btn-pill-icon)",
+      "selector": "#btn-reset",
+      "width": 48,
+      "height": 48,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "768px",
+      "element": "Mode Tab Situational (.segment-btn)",
+      "selector": "#tab-situational",
+      "width": 318.5,
+      "height": 44,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "768px",
+      "element": "Mode Tab Practical (.segment-btn)",
+      "selector": "#tab-practical",
+      "width": 318.5,
+      "height": 44,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "768px",
+      "element": "Option A (.option-btn)",
+      "selector": "#option-A",
+      "width": 606,
+      "height": 95.3,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "768px",
+      "element": "Option B (.option-btn)",
+      "selector": "#option-B",
+      "width": 606,
+      "height": 117,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "768px",
+      "element": "Option C (.option-btn)",
+      "selector": "#option-C",
+      "width": 606,
+      "height": 95.3,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "768px",
+      "element": "Option D (.option-btn)",
+      "selector": "#option-D",
+      "width": 606,
+      "height": 95.3,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "768px",
+      "element": "Bottom Nav Prev (.btn-pill)",
+      "selector": "#btn-prev",
+      "width": 288,
+      "height": 48,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "768px",
+      "element": "Bottom Nav Catalog (.btn-pill-icon)",
+      "selector": "#btn-catalog",
+      "width": 48,
+      "height": 48,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "768px",
+      "element": "Bottom Nav Next (.btn-pill-primary)",
+      "selector": "#btn-next",
+      "width": 288,
+      "height": 48,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "768px",
+      "element": "Close Sheet Button (.btn-pill-icon)",
+      "selector": "#btn-close-sheet",
+      "width": 48,
+      "height": 48,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "768px",
+      "element": "Filter Chip All (.filter-chip)",
+      "selector": ".filter-chip[data-filter=\"all\"]",
+      "width": 88.3,
+      "height": 44,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "768px",
+      "element": "Filter Chip Unsolved (.filter-chip)",
+      "selector": ".filter-chip[data-filter=\"unsolved\"]",
+      "width": 149.1,
+      "height": 44,
+      "passesHigMin": true
+    },
+    {
+      "viewport": "768px",
+      "element": "First Grid Cell (.grid-cell)",
+      "selector": ".grid-cell",
+      "width": 121.6,
+      "height": 48,
+      "passesHigMin": true
+    }
+  ],
+  "focusStates": [
+    {
+      "selector": "#btn-reset",
+      "outlineStyle": "solid",
+      "outlineWidth": "2px",
+      "outlineColor": "rgb(26, 26, 26)",
+      "boxShadow": "none",
+      "hasFocusIndicator": true
+    },
+    {
+      "selector": "#tab-situational",
+      "outlineStyle": "solid",
+      "outlineWidth": "3px",
+      "outlineColor": "rgb(26, 26, 26)",
+      "boxShadow": "rgba(0, 0, 0, 0.04) 0px 1px 3px 0px, rgba(0, 0, 0, 0.02) 0px 1px 1px 0px",
+      "hasFocusIndicator": true
+    },
+    {
+      "selector": "#tab-practical",
+      "outlineStyle": "solid",
+      "outlineWidth": "3px",
+      "outlineColor": "rgb(107, 107, 107)",
+      "boxShadow": "none",
+      "hasFocusIndicator": true
+    },
+    {
+      "selector": "#option-A",
+      "outlineStyle": "solid",
+      "outlineWidth": "2px",
+      "outlineColor": "rgb(26, 26, 26)",
+      "boxShadow": "none",
+      "hasFocusIndicator": true
+    },
+    {
+      "selector": "#option-B",
+      "outlineStyle": "solid",
+      "outlineWidth": "2px",
+      "outlineColor": "rgb(26, 26, 26)",
+      "boxShadow": "none",
+      "hasFocusIndicator": true
+    },
+    {
+      "selector": "#btn-prev",
+      "outlineStyle": "solid",
+      "outlineWidth": "2px",
+      "outlineColor": "rgb(26, 26, 26)",
+      "boxShadow": "none",
+      "hasFocusIndicator": true
+    },
+    {
+      "selector": "#btn-catalog",
+      "outlineStyle": "solid",
+      "outlineWidth": "2px",
+      "outlineColor": "rgb(26, 26, 26)",
+      "boxShadow": "none",
+      "hasFocusIndicator": true
+    },
+    {
+      "selector": "#btn-next",
+      "outlineStyle": "solid",
+      "outlineWidth": "2px",
+      "outlineColor": "rgb(26, 26, 26)",
+      "boxShadow": "none",
+      "hasFocusIndicator": true
+    },
+    {
+      "selector": "#btn-close-sheet",
+      "outlineStyle": "solid",
+      "outlineWidth": "2px",
+      "outlineColor": "rgb(26, 26, 26)",
+      "boxShadow": "none",
+      "hasFocusIndicator": true
+    },
+    {
+      "selector": ".filter-chip[data-filter=\"all\"]",
+      "outlineStyle": "solid",
+      "outlineWidth": "2px",
+      "outlineColor": "rgb(26, 26, 26)",
+      "boxShadow": "none",
+      "hasFocusIndicator": true
+    },
+    {
+      "selector": ".grid-cell",
+      "outlineStyle": "solid",
+      "outlineWidth": "3px",
+      "outlineColor": "rgb(26, 26, 26)",
+      "boxShadow": "rgb(26, 26, 26) 0px 0px 0px 1px",
+      "hasFocusIndicator": true
+    }
+  ],
+  "touchAction": [
+    {
+      "selector": "body",
+      "touchAction": "manipulation",
+      "webkitTapHighlightColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "selector": ".site-header",
+      "touchAction": "auto",
+      "webkitTapHighlightColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "selector": "#tab-situational",
+      "touchAction": "manipulation",
+      "webkitTapHighlightColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "selector": "#option-A",
+      "touchAction": "manipulation",
+      "webkitTapHighlightColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "selector": "#btn-prev",
+      "touchAction": "manipulation",
+      "webkitTapHighlightColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "selector": "#btn-next",
+      "touchAction": "manipulation",
+      "webkitTapHighlightColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "selector": "#btn-catalog",
+      "touchAction": "manipulation",
+      "webkitTapHighlightColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "selector": ".filter-chip",
+      "touchAction": "manipulation",
+      "webkitTapHighlightColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "selector": ".grid-cell",
+      "touchAction": "manipulation",
+      "webkitTapHighlightColor": "rgba(0, 0, 0, 0)"
+    }
+  ],
+  "tapHighlight": [],
+  "ariaChecks": [],
+  "contrastChecks": [
+    {
+      "name": "Question Topic",
+      "selector": "#question-topic",
+      "fg": "rgb(107, 107, 107)",
+      "contrast": 5.33,
+      "expectedMin": 4.5,
+      "passes": true
+    },
+    {
+      "name": "Question Prompt",
+      "selector": "#question-prompt",
+      "fg": "rgb(26, 26, 26)",
+      "contrast": 17.4,
+      "expectedMin": 4.5,
+      "passes": true
+    },
+    {
+      "name": "Category Tag Text",
+      "selector": "#category-text",
+      "fg": "rgb(107, 107, 107)",
+      "contrast": 4.93,
+      "expectedMin": 4.5,
+      "passes": true
+    },
+    {
+      "name": "Inactive Tab Text",
+      "selector": "#tab-practical",
+      "fg": "rgb(107, 107, 107)",
+      "contrast": 4.93,
+      "expectedMin": 4.5,
+      "passes": true
+    },
+    {
+      "name": "Inactive Filter Chip",
+      "selector": ".filter-chip[data-filter=\"unsolved\"]",
+      "fg": "rgb(107, 107, 107)",
+      "contrast": 4.93,
+      "expectedMin": 4.5,
+      "passes": true
+    },
+    {
+      "name": "Progress Text",
+      "selector": "#progress-text",
+      "fg": "rgb(107, 107, 107)",
+      "contrast": 5.1,
+      "expectedMin": 4.5,
+      "passes": true
+    },
+    {
+      "name": "Option Indicator Letter",
+      "selector": ".option-indicator",
+      "fg": "rgb(107, 107, 107)",
+      "contrast": 4.93,
+      "expectedMin": 3,
+      "passes": true
+    }
+  ],
+  "verdict": "APPROVE",
+  "failures": []
+}
